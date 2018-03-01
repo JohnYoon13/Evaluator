@@ -6,8 +6,8 @@ addition and subtraction for only integers.
 
 INSTRUCTIONS: 
 -------
--In your terminal, enter " python Evaluator.py".
--A prompt will appear to ask for your expression.
--Type your expression with only INTEGERS and the ADDITION and SUBTRACTION operators, separated by a space. 
--Press Enter to see your result.
+- In your terminal, enter " python Evaluator.py".
+- A prompt will appear to ask for your expression.
+- Type your expression with only INTEGERS and the ADDITION and SUBTRACTION operators, separated by a space. 
+- Press Enter to see your result.
 
