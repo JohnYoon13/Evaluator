@@ -8,6 +8,6 @@ INSTRUCTIONS:
 -------
 - In your terminal, enter " python Evaluator.py".
 - A prompt will appear to ask for your expression.
-- Type your expression with only INTEGERS and the ADDITION and SUBTRACTION operators, separated by a space. 
+- Type your expression with only INTEGERS and the ADDITION and SUBTRACTION operators, each separated by a space. 
 - Press Enter to see your result.
 
